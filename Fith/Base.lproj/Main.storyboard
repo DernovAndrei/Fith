@@ -27,8 +27,8 @@
                                     <color key="titleShadowColor" systemColor="labelColor"/>
                                 </state>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cat cat cat" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zHd-5g-e3s">
-                                <rect key="frame" x="20" y="100" width="280" height="41"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cat cat " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zHd-5g-e3s">
+                                <rect key="frame" x="20" y="150" width="280" height="41"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="34"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -41,7 +41,7 @@
                             <constraint firstItem="Or4-Ry-1MN" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="TYf-HJ-Ish"/>
                             <constraint firstItem="Or4-Ry-1MN" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="k0s-l3-VjK"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="zHd-5g-e3s" secondAttribute="trailing" constant="20" id="oAc-OR-dni"/>
-                            <constraint firstItem="zHd-5g-e3s" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="100" id="obN-nR-VA6"/>
+                            <constraint firstItem="zHd-5g-e3s" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="150" id="obN-nR-VA6"/>
                             <constraint firstItem="Or4-Ry-1MN" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="ruu-vh-g3I"/>
                         </constraints>
                     </view>
